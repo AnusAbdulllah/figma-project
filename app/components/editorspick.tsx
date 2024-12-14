@@ -8,7 +8,6 @@ export default function Editors() {
   return (
     <div className="w-full flex justify-center py-[10px] absolute top-[850px] bg-[#f5f5f5]">
       <div className="w-[1050px] h-auto flex flex-col gap-[30px] bg-[#FAFAFA] p-[40px]">
-        {/* Title Section */}
         <div className="flex flex-col items-center gap-[10px]">
           <h3 className="font-Montserrat font-semibold text-[24px] leading-[32px]">
             EDITOR’S PICK

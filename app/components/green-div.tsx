@@ -9,7 +9,7 @@ export default function GreenDiv(){
                 <div className="w-[1036px] h-[711px] absolute left-[209px] py-[112px] flex  gap-[80px]">
                     <div className="w-[1049px] h-[599px] flex  gap-[30px]">
                         <div className="w-[509px] h-[432px] pt-[60px] flex flex-col gap-[30px]">
-                            <h4 className="w-[154px] h-[30px] font-Montserrat font-normal text-[20px] leading-[30px] text-white">SUMMER 2020</h4>
+                            <h4 className="w-[154px] h-[30px] font-Montserrat font-normal text-[20px] leading-[30px] text-white">SUMMER 2025</h4>
                             <h1 className="w-[509px] h-[160px] font-Montserrat font-bold text-[58px] leading-[80px] text-white">Vita Classic Product</h1>
                             <p className="w-[341px] h-[40px] font-Montserrat font-medium text-[14px] leading-[20px] text-white">We know how large objects will act, We know how are objects will act, We know</p>
                             <div className="w-[295px] h-[52px] flex gap-[34px]">
